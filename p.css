@@ -1,0 +1,151 @@
+
+#one{
+    height: 90vh;
+    width: 100%;
+    background-image:linear-gradient(to right, #000 40%, transparent 58%), url(https://m.media-amazon.com/images/G/31/AmazonVideo/2019/MLP.jpg);
+    background-repeat: no-repeat;*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    background-position: center;
+    background-size: cover;
+}
+#nav{
+    height: 37.99px;
+    width: 100%;
+    background-color: black;
+    position: relative;
+}
+li{
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+}
+#naa{
+    position: relative;
+}
+img[alt="pic"]{
+    position: absolute;
+    width: 96px;
+    height: 18px;
+    top: 28px;
+    left: 150px;
+}
+#a{
+    margin-top: 8px;
+   margin-left: 470px;
+}
+.b{
+    margin-top: 8px;
+   margin-left: 60px;
+}
+.bc{
+    margin-left: 70px;
+    color: #ffffff;
+    font: 40px "Amazon Ember";
+}
+#d,#d1{
+    margin-left: 70px;
+    color: #ffffff;
+    font: 21px "Amazon Ember";
+}
+#e,#e1{
+    margin-left: 70px;
+    width: 280px;
+    height: 47px;
+    background-color: #0f79af;
+    color: #ffffff;
+    font: 15px "Amazon Ember";
+    font-weight: bold;
+    border-radius: 6px;}
+
+#bc{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(to right, #000 40%, transparent 58%),url(https://m.media-amazon.com/images/G/31/AmazonVideo/2021/X-site/MLP/TVOD/TVOD_MLP_Right.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#aa{
+   width:1312px ;
+ height:  611.3px;
+ position: relative;
+ margin-left: 70px;
+   
+}
+#bb{
+    width: 50%;
+    height: 100%;
+}
+#pp{
+    padding-right: 240px;
+    color:black;
+
+}
+#pp1{
+    padding-right: 200px;
+    font: 24px "Amazon Ember";
+}
+img{
+    width: 212.77px;
+    height: 146.83px;
+}
+#bb1{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+}
+#mm{
+    height: 145px;
+    width: 100%;
+    background-color: #222222;
+    position: relative;
+}
+img[alt="lo"]{
+    width: 109px;
+    height: 32px;
+    position: absolute;
+    left:45% ;
+    top: 10px;
+
+}
+#cc{
+    color: #79b8f3;
+    position: absolute;
+    top: 48px;
+    left: 515px;
+    margin-left: 30px;
+}
+#cc1{
+    color: #79b8f3;
+    position: absolute;
+    top: 48px;
+    left: 709px;
+    margin-left: 30px;
+}
+#cc2{
+    color: #79b8f3;
+    position: absolute;
+    top: 48px;
+    left: 852px;
+    margin-left: 30px;
+}
+#hh{
+    position: absolute;
+    color: #8197A4;
+    font: 15px "Amazon Ember";
+    left: 580px;
+    top: 94px;
+}
+#cc,#cc1,#cc2{
+    text-decoration: none;
+}
+img:hover{
+    scale: 1.05;
+    cursor: pointer;
+}
